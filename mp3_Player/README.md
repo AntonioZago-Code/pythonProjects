@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MP3 Player
 
 A simple audio player developed in Python using the **Pygame** library, allowing users to select and control MP3 file playback interactively.
