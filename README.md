@@ -1,2 +1,6 @@
 # PythonProjects
-Diversos projetos em desenvolvimento para fins de prática da linguagem de programação python
+Various projects for practicing the Python programming language
+
+## Ongoing Projects
+
+- MP3 Player: Terminal-based system for playing music/MP3 files
